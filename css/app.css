@@ -90,6 +90,10 @@ section {
   border-bottom-right-radius: 16px;
   font-size: 1.2em;
 }
+.contact-icon {
+  width: 30px;
+  height: 30px;
+}
   #contact > a:link {
     color: #fff;
   }
